@@ -214,21 +214,21 @@ h1{
 
 .item b{
   text-transform:uppercase;
-  font-size:.93rem;
+  font-size:.87rem;
   letter-spacing:.02em;
 }
 
 .item p{
   margin:3px 0 0;
   color:var(--muted);
-  font-size:.74rem;
+  font-size:.68rem;
   line-height:1.35;
 }
 
 .item strong{
   white-space:nowrap;
   color:var(--text);
-  font-size:.92rem;
+  font-size:.88rem;
 }
 
 .compact .item{padding:7px 0}
@@ -267,9 +267,9 @@ h1{
     grid-template-columns:1fr auto;
     gap:8px;
   }
-  .item b{font-size:.86rem}
-  .item p{font-size:.68rem}
-  .item strong{font-size:.84rem}
+  .item b{font-size:.80rem}
+  .item p{font-size:.62rem}
+  .item strong{font-size:.78rem}
 }
 
 @media (max-width:390px){
